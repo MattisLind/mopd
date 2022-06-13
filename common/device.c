@@ -40,7 +40,7 @@ static char rcsid[]="$NetBSD: device.c,v 1.2 1997/03/25 03:07:06 thorpej Exp $";
 #include "mopdef.h"
 #include "pf.h"
 
-struct	if_info *iflist;		/* Interface List		*/
+extern struct	if_info *iflist;		/* Interface List		*/
 
 void	deviceOpen __P((char *, u_short, int));
 
