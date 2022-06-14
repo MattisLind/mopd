@@ -27,6 +27,8 @@ mopd-linux-20000808
  Small change to make it compile on Linux kernel 5 with GCC 10.
 
  Tested working to download firmware to DECserver 100 terminal server.
+ 
+ Added instructions on how to setup a DECserver 100.
 
 
 Cloned from http://linux-vax.sourceforge.net/download/mopd-linux.tar.gz
