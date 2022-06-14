@@ -25,3 +25,4 @@ Load Address:       00000a76
 Transfer Address:   00000a76
 ```
 
+  * The DECserver 100 is connected to a standard male PC serial port (or USB dongle) with a straight cable DE9 - DB25. Pin 2 - Pin 2, Pin 3 - Pin 3 and Pin 5 - Pin 7.
